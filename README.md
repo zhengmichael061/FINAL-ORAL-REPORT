@@ -7,6 +7,6 @@
 ### 4.Random Forest Regressor
 ### 5.Matplotlib
 ### 6.Panda
-<img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/shap_summary_plot.png" alt="predict_scaater" width="1000" height="700">
+<img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/shap_summary_plot.png" alt="predict_scaater" width="700" >
 [點擊這裡查看 HTML 文件]([force_plot.html](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/force_plot.html))
 

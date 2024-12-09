@@ -22,7 +22,7 @@
 ## 以下是蒐集爬取球隊戰績程式碼
 ### 藉由selenium抓取資料以及弄成excel和存入MYSQL
 
-[點擊這裡查看 HTML 文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/PDF/mlb_history_standings.xlsx%20-%20Sheet2010.pdf)
+[點擊這裡查看 PDF2010球隊戰績文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/PDF/mlb_history_standings.xlsx%20-%20Sheet2010.pdf)
 
 <img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/dev/picture_code/截圖.png" alt="圖片_1" width="700" >
 <img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/dev/picture_code/截圖_2.png" alt="圖片_2" width="700" >

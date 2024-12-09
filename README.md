@@ -18,6 +18,7 @@
 ## -----分割線-----
 ### 下面這張圖是Random Forest Regressor模型輸出做成的視覺化圖形
 <img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/shap_summary_plot.png" alt="predict_scaater" width="700" >
+
 ## 以下是蒐集爬取球隊戰績程式碼
 ### 藉由selenium抓取資料以及弄成excel和存入MYSQL
 <iframe src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/PDF/mlb_history_standings.xlsx%20-%20Sheet2010.pdf" width="600" height="400" style="border: none;"></iframe>

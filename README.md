@@ -32,5 +32,5 @@
 <img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/dev/picture_code/截圖_7.png" alt="圖片_7" width="700" >
 <img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/dev/picture_code/截圖_8.png" alt="圖片_8" width="700" >
 
-[點擊這裡查看 HTML 文件]([force_plot.html](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/force_plot.html))
+[點擊這裡查看 HTML 文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/force_plot.html)
 

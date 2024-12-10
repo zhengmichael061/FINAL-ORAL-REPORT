@@ -33,5 +33,13 @@
 <img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/dev/picture_code/截圖_7.png" alt="圖片_7" width="700" >
 <img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/dev/picture_code/截圖_8.png" alt="圖片_8" width="700" >
 
+### 以下是打擊、守備、投球的爬蟲程式範例
+
+[點擊這裡查看 2024打擊文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/python/2024_mlb_batting_selenium.py)
+
+[點擊這裡查看 2024守備文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/python/2024_MLB_FIELDING_selenium.py)
+
+[點擊這裡查看 2024投球文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/python/2024_mlb_pitching_selenium.py)
+### force_plot圖
 [點擊這裡查看 HTML 文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/force_plot.html)
 

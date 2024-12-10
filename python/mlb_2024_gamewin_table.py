@@ -16,7 +16,7 @@ from datetime import datetime
 import mysql.connector
 from tabulate import tabulate
 from openpyxl import load_workbook
-year = 2010 #注意改年分 (2010-2012年的球隊分區有變動) 2024年後會有變動
+year = 2024 #注意改年分 (2010-2012年的球隊分區有變動) 2024年後會有變動
 # 連接到 MySQL 資料庫
 conn = mysql.connector.connect(
     host="localhost",     # MySQL 伺服器地址 (通常為本地使用 localhost)

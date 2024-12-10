@@ -40,6 +40,9 @@
 [點擊這裡查看 2024守備文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/python/2024_MLB_FIELDING_selenium.py)
 
 [點擊這裡查看 2024投球文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/python/2024_mlb_pitching_selenium.py)
+
+<img src="https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/picture_code/%E8%B3%87%E6%96%99%E5%BA%AB%E5%9C%96%E7%89%87.png" alt="圖片_9" width="700" >
+
 ### force_plot圖
 [點擊這裡查看 HTML 文件](https://github.com/zhengmichael061/FINAL-ORAL-REPORT/blob/main/force_plot.html)
 
